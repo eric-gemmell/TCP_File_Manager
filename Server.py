@@ -152,7 +152,7 @@ if (__name__ == '__main__'):
 	"data":
 		Optional when request is a get type, the data to be saved to a file
 
-	Sever is made to always be listennign even if an error at some non fatal level is found
+	Sever is made to always be listenning even if an error at some non fatal level is found
 	"""
 	print(ARTBABY)
 	serverSocket = None
